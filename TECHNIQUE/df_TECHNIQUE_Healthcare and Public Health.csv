@@ -1,0 +1,18 @@
+,0,1,2,3,4,5
+1,,,,,,
+2,['Default Accounts'],['Default Accounts'],['Default Accounts'],['Default Accounts'],['Default Accounts'],['Default Accounts']
+3,['User Execution'],['User Execution'],['User Execution'],['User Execution'],['User Execution'],['User Execution']
+4,['Valid Accounts'],['Valid Accounts'],['Valid Accounts'],['Valid Accounts'],['Default Accounts'],['Default Accounts']
+5,['Default Accounts'],['Default Accounts'],['Default Accounts'],['Default Accounts'],['Default Accounts'],['Default Accounts']
+6,['Default Accounts'],['Default Accounts'],['Default Accounts'],['Default Accounts'],['Default Accounts'],['Default Accounts']
+7,['Brute Force'],['Brute Force'],['Brute Force'],['Brute Force'],['Brute Force'],['Brute Force']
+8,"['Account Discovery', 'Permission Groups Discovery']","['Account Discovery', 'Permission Groups Discovery']","['Account Discovery', 'Permission Groups Discovery']","['Account Discovery', 'Permission Groups Discovery']","['Account Discovery', 'Permission Groups Discovery']","['Account Discovery', 'Permission Groups Discovery']"
+9,['Web Session Cookie'],['Web Session Cookie'],['Web Session Cookie'],['Web Session Cookie'],['Web Session Cookie'],['Web Session Cookie']
+10,['Data from Information Repositories'],['Data from Information Repositories'],['Data from Information Repositories'],['Data from Information Repositories'],['Data from Information Repositories'],['Data from Information Repositories']
+11,['Commonly Used Port'],['Commonly Used Port'],"['Commonly Used Port', 'Standard Application Layer Protocol']","['Commonly Used Port', 'Standard Application Layer Protocol']","['Multi-hop Proxy', 'Non-Application Layer Protocol', 'Port Knocking', 'Proxy', 'Traffic Signaling']","['Multi-hop Proxy', 'Non-Application Layer Protocol', 'Port Knocking', 'Proxy', 'Traffic Signaling']"
+12,['Transfer Data to Cloud Account'],['Transfer Data to Cloud Account'],['Transfer Data to Cloud Account'],['Transfer Data to Cloud Account'],['Transfer Data to Cloud Account'],['Transfer Data to Cloud Account']
+13,['Modify Alarm Settings'],['Modify Alarm Settings'],"['Modify Alarm Settings', 'Service Stop']","['Modify Alarm Settings', 'Service Stop']",['Modify Alarm Settings'],['Modify Alarm Settings']
+14,['Modify Parameter'],['Modify Parameter'],['Modify Parameter'],['Modify Parameter'],,
+15,['Endpoint Denial of Service'],['Endpoint Denial of Service'],['Endpoint Denial of Service'],['Endpoint Denial of Service'],['Endpoint Denial of Service'],['Endpoint Denial of Service']
+16,,,,,,
+17,,,,,,
